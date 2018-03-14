@@ -1,4 +1,4 @@
-# StickItemDecoration
+# DWStickItemDecoration
 
 <img src="https://github.com/123ufo/DWStickItemDecoration/blob/master/img/a.gif?raw=true" width="280"/>
 
@@ -8,7 +8,7 @@
 ## 第一步:
 ##### Gradle compile dependency:
 
-        	compile 'com.ufo:DWRefreshLayout:0.9.6'
+        	compile 'com.ufo:DWStickItemDecoration:1.0.0'
 ## 第二步:
 
       RecyclerView recyclerView = findViewById(R.id.recycler_view);
