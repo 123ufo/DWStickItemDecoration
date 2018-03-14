@@ -9,7 +9,14 @@ import com.ufo.dwstickdecoration.DWStickItemDecoration;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * 日期:2018/3/14 
+ * 
+ * 作者:xudiwei
+ * 
+ * 描述:
+ *
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
