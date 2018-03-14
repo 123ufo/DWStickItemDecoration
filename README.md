@@ -1,5 +1,8 @@
 # StickItemDecoration
 
+<img src="https://github.com/123ufo/DWStickItemDecoration/blob/master/img/a.gif?raw=true" width="280"/>
+
+
 ## 使用方式只需两步
 
 ## 第一步:
