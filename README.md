@@ -70,3 +70,6 @@
             list.add(new DataBean("烟4", false, "Y"));
             list.add(new DataBean("造4", true, "Z"));
             list.add(new DataBean("智4", false, "Z"));
+
+
+### 更多细节请查看Demo里的代码.
