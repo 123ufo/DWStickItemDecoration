@@ -28,6 +28,17 @@
             };
        recyclerView.addItemDecoration(decoration);
 
+
+### 更多可设置相关参数:
+
+            //设置标签颜色
+    //        decoration.setLabelColor(Color.DKGRAY);
+            //设置标签高度
+    //        decoration.setLabelHeight(30);
+            //设置标签字体颜色
+    //        decoration.setTextColor(Color.RED);
+            //设置标签字体大小
+    //        decoration.setTextSize(50);
 .
 
 ### 模拟演示数据
