@@ -20,11 +20,11 @@ import android.view.View;
  * <p>
  * StickItemDecoration decoration = new StickItemDecoration(this) {
  *
- * @Override protected boolean isShowItemLabel(int position) {
+ *  protected boolean isShowItemLabel(int position) {
  * //返回true表示当前Item是要显示标签,否则返回false
  * return mList.get(position).isShowLable();
  * }
- * @Override protected String getItemLabelStr(int position) {
+ *  protected String getItemLabelStr(int position) {
  * //返回标签的文本内容
  * return mList.get(position).getSpell();
  * }
